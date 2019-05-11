@@ -1,0 +1,177 @@
+body{
+    background: linear-gradient(#555555, #000000 17%, #000000 21%, #555555) no-repeat;
+    background-size: auto 1207px;
+    background-color: #000000;
+}
+
+#t1{
+    top: 260px;
+}
+
+#p1{
+    top: 300px;
+}
+
+    h3{
+        
+        font-family: akaChen;
+        line-height: 150%;
+        color: #e81b23;
+    }
+
+    #lt1{
+        top: 360px;
+    }
+    
+    #lt2{
+        top: 700px;
+    }
+    
+    #details_label{
+        top: 740px;
+    }
+    
+    textarea{
+        position: absolute;
+        top: 750px;
+        left: 25%;
+        right: 25%;
+        width: 50%;
+        height: 20%;
+        font-family: ChaletLondon1960;
+    }
+    
+    
+    #lt3{
+        top: 900px;
+    }
+    
+    .name{
+        top: 960px;
+    }
+    
+    .surname{
+        top: 990px;
+    }
+    
+    .email{
+        top: 1020px;
+    }
+    
+    .pass_id{
+        top: 1050px;
+    }
+    
+    #name{}
+    
+    #surname{}
+    
+    #email{}
+    
+    #pass_id{}
+    
+    #policy_check_input{}
+    
+    #policy_check{
+        top: 760px;
+    }
+    
+    #submit{
+        position: absolute;
+        top: 1100px;
+        right: 25%;
+        color: #ffffff;
+        font-weight: bold;
+        border-radius: 5px;
+        border: 0;
+        width: 10%;
+        height: 5%;
+        font-family: ChaletLondon1960;
+        background: linear-gradient(#e81b23, #990000) no-repeat;
+        cursor: pointer;
+    }
+    
+    
+    .label{
+        position: absolute;
+        left: 35%;
+        right: 25%;
+    }
+    
+    .text_form{
+        position: absolute;
+        width: 20%;
+        right: 35%;
+        font-family: ChaletLondon1960;
+    }
+    
+label{
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 360px;
+}
+
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  
+}
+
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.container input:checked ~ .checkmark {
+  background-color: #e81b23;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+
+footer{
+    top: 800px;
+}

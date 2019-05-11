@@ -1,0 +1,155 @@
+@media only screen and (min-width: 0px) {
+    body{
+        background: linear-gradient(#555555, #000000 27%, #000000 28%, #555555) no-repeat;
+        background-size: auto 1122px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 490px;
+        text-align: center;
+    }
+    
+    #map{
+        position: absolute;
+        width: 100%;
+        top: 570px;
+    }
+    
+    .point{
+        position: absolute;
+        width: 2.4%;
+    }
+    
+    #can{
+        top: 593px;
+        left: 17%;
+    }
+    
+    #usa{
+        top: 620px;
+        left: 14%;
+    }
+    
+    #sou{
+        top: 680px;
+        left: 21%;
+    }
+    
+    #eur{
+        top: 602px;
+        left: 44%;
+    }
+    
+    #rus{
+        top: 592px;
+        left: 64%;
+    }
+    
+    #chi{
+        top: 636px;
+        left: 74%;
+    }
+
+    #mid{
+        top: 643px;
+        left: 55.5%;
+    }
+
+    #afr{
+        top: 666px;
+        left: 49%;
+    }
+
+
+    #t2{
+        top: 800px;
+    }
+
+    #p1{
+        top: 848px;
+    }
+
+    footer{
+        top: 670px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    body{
+        background: linear-gradient(#555555, #000000 27%, #000000 28%, #555555) no-repeat;
+        background-size: auto 850px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 260px;
+        text-align: center;
+    }
+    
+    #map{
+        position: absolute;
+        left: 25%;
+        right: 25%;
+        width: 50%;
+        top: 330px;
+    }
+    
+    .point{
+        position: absolute;
+        width: 1%;
+    }
+    
+    #can{
+        top: 370px;
+        left: 33%;
+    }
+    
+    #usa{
+        top: 415px;
+        left: 31%;
+    }
+    
+    #sou{
+        top: 510px;
+        left: 35%;
+    }
+    
+    #eur{
+        top: 390px;
+        left: 46%;
+    }
+    
+    #rus{
+        top: 370px;
+        left: 55%;
+    }
+    
+    #chi{
+        top: 440px;
+        left: 61%;
+    }
+
+    #mid{
+        top: 455px;
+        left: 52%;
+    }
+
+    #afr{
+        top: 490px;
+        left: 48.5%;
+    }
+
+
+    #t2{
+        top: 670px;
+    }
+
+    #p1{
+        top: 710px;
+    }
+
+    footer{
+        top: 770px;
+    }
+}

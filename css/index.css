@@ -1,0 +1,307 @@
+@media only screen and (min-width: 0px) {
+    body{
+        background: linear-gradient(#555555, #000000 17%, #000000 30%, #555555 47%, #000000 48%, #000000 74%, #555555) no-repeat;
+        background-size: auto 1626px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 500px;
+    }
+    
+    #p1{
+        top: 560px;
+    }
+    
+    #t2{
+        top: 800px;
+    }
+    
+    ul{
+        top: 850px;
+    }
+    
+    .ul{
+        padding: 5px 0;
+    }
+    
+    #t3{
+    top: 1240px;
+    }
+    
+    #p2{
+        top: 1290px;
+    }
+    
+    h3{
+        top: 1435px;
+        font-family: akaChen;
+        line-height: 150%;
+        color: #e81b23;
+    }
+    
+    #line1{
+        top: 330px;
+    }
+    
+    #line2{
+        top: 735px;
+    }
+    
+    #line3{
+        top: 1110px;
+    }
+    
+    footer{
+        top: 1600px;
+    }
+    
+    #map-text{
+        top: 1650px;
+        left: 15%;
+        right: 15%;
+        background: linear-gradient(#e81b23, #990000) no-repeat;
+        padding: 10px 5px 10px 110px;
+        border-radius: 15px;
+        color: #ffffff;
+        line-height: 120%;
+        font-size: 130%;
+    }
+    
+    #point{
+        position: absolute;
+        top: 1685px;
+        left: 17%;
+        width: 20%;
+    }
+    
+    #lcn-text{
+        
+        top: 1850px;
+        left: 15%;
+        right: 15%;
+        text-align: center;
+        font-size: 130%;
+        color: #ffffff;
+        line-height: 120%;
+    }
+    
+    #lcn{
+        position: absolute;
+        top: 1910px;
+        left: 15%;
+        right: 15%;
+        border-radius: 15px;
+        width: 70%;
+    }
+    
+    #f{
+        top: 2150px;
+        font-size: 80%;
+    }
+}
+
+@media only screen and (min-width: 480px) {
+    body{
+        background: linear-gradient(#555555, #000000 17%, #000000 30%, #555555 47%, #000000 48%, #000000 74%, #555555) no-repeat;
+        background-size: auto 1626px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 500px;
+    }
+    
+    #p1{
+        top: 560px;
+    }
+    
+    #t2{
+        top: 800px;
+    }
+    
+    ul{
+        top: 850px;
+    }
+    
+    .ul{
+        padding: 5px 0;
+    }
+    
+    #t3{
+    top: 1240px;
+    }
+    
+    #p2{
+        top: 1290px;
+    }
+    
+    h3{
+        top: 1435px;
+        font-family: akaChen;
+        line-height: 150%;
+        color: #e81b23;
+    }
+    
+    #line1{
+        top: 330px;
+    }
+    
+    #line2{
+        top: 735px;
+    }
+    
+    #line3{
+        top: 1110px;
+    }
+    
+    footer{
+        top: 1600px;
+    }
+    
+    #map-text{
+        top: 1650px;
+        left: 15%;
+        right: 15%;
+        background: linear-gradient(#e81b23, #990000) no-repeat;
+        padding: 10px 5px 10px 110px;
+        border-radius: 15px;
+        color: #ffffff;
+        line-height: 120%;
+        font-size: 130%;
+    }
+    
+    #point{
+        position: absolute;
+        top: 1685px;
+        left: 17%;
+        width: 20%;
+    }
+    
+    #lcn-text{
+        
+        top: 1850px;
+        left: 15%;
+        right: 15%;
+        text-align: center;
+        font-size: 130%;
+        color: #ffffff;
+        line-height: 120%;
+    }
+    
+    #lcn{
+        position: absolute;
+        top: 1910px;
+        left: 15%;
+        right: 15%;
+        border-radius: 15px;
+        width: 70%;
+    }
+    
+    #f{
+        top: 2150px;
+        font-size: 80%;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    body{
+        background: linear-gradient(#555555, #000000 20%, #000000 24%, #555555 40%, #000000 41%, #000000 74%, #555555) no-repeat;
+        background-size: auto 1053px;
+        background-color: #000000;
+    }
+
+    #t1{
+        top: 260px;
+    }
+
+    #p1{
+        top: 306px;
+    }
+    
+    #t2{
+        top: 435px;
+    }
+    
+    ul{
+        top: 475px;
+    }
+    
+    .ul{
+        padding: 5px 0;
+    }
+    
+    #t3{
+        top: 800px;
+    }
+    
+    #p2{
+        top: 850px;
+    }
+    
+    h3{
+        top: 930px;
+        font-family: akaChen;
+        line-height: 150%;
+        color: #e81b23;
+    }
+
+    #map-text{
+        top: 1070px;
+        left: 25%;
+        right: 43%;
+        background: linear-gradient(#e81b23, #990000) no-repeat;
+        padding: 10px 25px 10px 95px;
+        border-radius: 15px;
+        color: #ffffff;
+        line-height: 120%;
+        font-size: 130%;
+    }
+
+    #lcn-text{
+        top: 1070px;
+        right: 34%;
+        left: 59%;
+        font-size: 130%;
+        padding: 10px 0px;
+        color: #ffffff;
+        line-height: 120%;
+    }
+    
+    #f{
+        top: 1286px;
+        font-size: 80%;
+    }
+
+    #point{
+        position: absolute;
+        top: 1088px;
+        left: 26%;
+        width: 4%;
+    }
+    
+    #lcn{
+        padding: 10px 0px;
+        position: absolute;
+        top: 1090px;
+        left: 67%;
+        border-radius: 15px;
+        width: 8%;
+    }
+    
+    #line1{
+        top: 350px;
+    }
+
+    #line2{
+        top: 670px;
+    }
+
+    #line3{
+        top: 910px;
+    }
+    
+    footer{
+        top: 1100px;
+    }
+}

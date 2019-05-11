@@ -1,0 +1,56 @@
+@media only screen and (min-width: 0px) {
+    body{
+        background: linear-gradient(#555555, #000000 20%, #000000 35%, #555555) no-repeat;
+        background-size: auto 1371px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 490px;
+    }
+    
+    #don{
+        position: absolute;
+        left: 15%;
+        top: 580px;
+        width: 70%;
+        border: 3px solid #c00e12;
+    }
+    
+    #p1{
+        top: 950px;
+    }
+    
+    footer{
+        top: 920px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    body{
+        background: linear-gradient(#555555, #000000 30%, #000000 34%, #555555) no-repeat;
+        background-size: auto 650px;
+        background-color: #000000;
+    }
+    
+    #t1{
+        top: 260px;
+    }
+
+    #don{
+        position: absolute;
+        left: 25%;
+        top: 320px;
+        width: auto;
+        border: 3px solid #c00e12;
+    }
+    
+    #p1{
+        top: 306px;
+        left: 43%;
+    }
+    
+    footer{
+        top: 570px;
+    }
+}
